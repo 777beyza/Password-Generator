@@ -1,0 +1,12 @@
+HTML elementinin minimum yüksekliğini belirler.
+Alabileceği değerler none, length, % (yüzde), initial ve inherit tir.
+none : Bu değeri atadığımızda içerik yüksekliği kadar yükseklik oluşur.
+
+---
+
+::before & ::after, bir web sayfasinin DOM'unda yer almayan,
+yani HTML kodlari içerisinde fiziksel olarak bulunmayan fakat,
+CSS araciliğiyla sayfanin ön yüzünde görülen sözde (sahte) HTML elemanlaridir.
+Css kullanarak istediğimiz html etiketlerinin önüne veya sonuna metin eklenmesini sağlayabiliriz.
+::after ile belirttiğimiz etiketlerin sonuna, ::before ile de önüne istediğimiz metinlerin
+otomatik olarak eklenmesini sağlayabiliriz.
